@@ -1,0 +1,38 @@
+p{
+    font-size: 20px;
+
+    font-weight: bold;
+}
+img{
+    width:300px;
+    height:250px ;
+    margin-left: 250px;
+}
+div{
+    padding-left: ;
+    background-color: ;
+
+}
+.division1{
+    background-color: #ff972f;
+}
+.division2{
+    background-color: aqua;
+}
+.division3{
+    background-color: blanchedalmond;
+}
+#main{
+    background-color: azure;
+    display: flex;
+    padding-top: 30px;
+}
+.heading1{
+    background-color: azure;
+}
+.heading2{
+    background-color: bisque;
+}
+.imagepharagh{
+    display: flex;
+}
